@@ -1,0 +1,20 @@
+ body{
+ 	background-image: url(http://img09.deviantart.net/5f10/i/2012/070/c/a/pokemon_background_by_baddarn-d4sel13.png);
+ 
+ }
+ .pokemon{
+ 	position: absolute;
+ 	bottom:55%;
+  	right:21%;
+  	width:60%;
+ }
+ .ubicacion{
+ 	position: absolute;
+ 	bottom:45%;
+ 	right:40%;
+ }
+ .ubicacion button{
+ 	position: relative;
+ 	left: 38%;
+ 	top:30px;
+ }

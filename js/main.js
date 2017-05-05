@@ -36,7 +36,7 @@ function batalla(nombre,color,poderDeAtaque){
 	var segundoPokemon = new Pokemon(elige2+color+poderDeAtaque);	
 	primerPokemon.atacar(segundoPokemon);
 }
-	var respuesta = document.getElementById("respuesta");
-	respuesta.innerHTML = "<br>" + primerPokemon.nombre+" atacó a "+segundoPokemon.nombre+" y "+segundoPokemon.nombre+" tiene una vida de: "+segundoPokemon.vida;
+	
+	respuesta.innerHTML="<br>" + primerPokemon.nombre+" atacó a "+segundoPokemon.nombre+" y "+segundoPokemon.nombre+" tiene una vida de: "+segundoPokemon.vida;
 
 }

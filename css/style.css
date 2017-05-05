@@ -18,3 +18,23 @@
  	left: 38%;
  	top:30px;
  }
+ .salida{
+text-align: center;
+color: #FCDB00;
+font-size:30px;
+background-color: blue;
+width:75%;
+
+
+ }
+ .salida p{
+text-align: center;
+color: #FCDB00;
+font-size:30px;
+background-color: blue;
+padding: 20px;
+position: absolute;
+left:12%;
+bottom: 5%;
+
+ }
